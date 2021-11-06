@@ -13,5 +13,4 @@ const CONFIG = {
     mess: 'Vâng ạ! Cọp ngoan lắm ạ 😘😘😘',
     messDesc: 'Chúc bé sinh nhật vui vẻ nha.',
     btnAccept: '❤❤❤',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+   }
