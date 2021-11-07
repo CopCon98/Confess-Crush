@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Cho a xin phép bảo vệ e từ giờ về sau nha 💑 ',
     btnYes: 'Được nha <3',
     btnNo: 'Không nha :(((',
-    question: 'A vui lắm á! Thích e lắm đấy! Ghi thánh chỉ nào 🥰',
+    question: 'A vui lắm á! Mời công chúa ban thánh chỉ 🥰',
     btnReply: 'Gửi cho Cọp <3',
     reply: 'A mà lm e buồn thì xác định nha ',
     mess: 'Vâng ạ! Cọp ngoan lắm ạ 😘😘😘',
