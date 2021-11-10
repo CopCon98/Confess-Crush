@@ -13,4 +13,5 @@ const CONFIG = {
     mess: 'Vâng ạ! Cọp ngoan lắm ạ 😘😘😘',
     messDesc: 'Chúc bé sinh nhật vui vẻ nha.',
     btnAccept: '❤❤❤',
+    messLink: 'https://tinhyeucuacop.000webhostapp.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
    }
